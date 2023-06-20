@@ -1,0 +1,15 @@
+D:\geekbrains 2023\Lessontask\Lesson_4\Example013_RecursionAlgorithm\bin\Debug\net6.0\Example013_RecursionAlgorithm.exe
+D:\geekbrains 2023\Lessontask\Lesson_4\Example013_RecursionAlgorithm\bin\Debug\net6.0\Example013_RecursionAlgorithm.deps.json
+D:\geekbrains 2023\Lessontask\Lesson_4\Example013_RecursionAlgorithm\bin\Debug\net6.0\Example013_RecursionAlgorithm.runtimeconfig.json
+D:\geekbrains 2023\Lessontask\Lesson_4\Example013_RecursionAlgorithm\bin\Debug\net6.0\Example013_RecursionAlgorithm.dll
+D:\geekbrains 2023\Lessontask\Lesson_4\Example013_RecursionAlgorithm\bin\Debug\net6.0\Example013_RecursionAlgorithm.pdb
+D:\geekbrains 2023\Lessontask\Lesson_4\Example013_RecursionAlgorithm\obj\Debug\net6.0\Example013_RecursionAlgorithm.csproj.AssemblyReference.cache
+D:\geekbrains 2023\Lessontask\Lesson_4\Example013_RecursionAlgorithm\obj\Debug\net6.0\Example013_RecursionAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\geekbrains 2023\Lessontask\Lesson_4\Example013_RecursionAlgorithm\obj\Debug\net6.0\Example013_RecursionAlgorithm.AssemblyInfoInputs.cache
+D:\geekbrains 2023\Lessontask\Lesson_4\Example013_RecursionAlgorithm\obj\Debug\net6.0\Example013_RecursionAlgorithm.AssemblyInfo.cs
+D:\geekbrains 2023\Lessontask\Lesson_4\Example013_RecursionAlgorithm\obj\Debug\net6.0\Example013_RecursionAlgorithm.csproj.CoreCompileInputs.cache
+D:\geekbrains 2023\Lessontask\Lesson_4\Example013_RecursionAlgorithm\obj\Debug\net6.0\Example013_RecursionAlgorithm.dll
+D:\geekbrains 2023\Lessontask\Lesson_4\Example013_RecursionAlgorithm\obj\Debug\net6.0\refint\Example013_RecursionAlgorithm.dll
+D:\geekbrains 2023\Lessontask\Lesson_4\Example013_RecursionAlgorithm\obj\Debug\net6.0\Example013_RecursionAlgorithm.pdb
+D:\geekbrains 2023\Lessontask\Lesson_4\Example013_RecursionAlgorithm\obj\Debug\net6.0\Example013_RecursionAlgorithm.genruntimeconfig.cache
+D:\geekbrains 2023\Lessontask\Lesson_4\Example013_RecursionAlgorithm\obj\Debug\net6.0\ref\Example013_RecursionAlgorithm.dll
